@@ -1,0 +1,40 @@
+{
+  "name": "@synchealth/handbook",
+  "version": "1.0.0",
+  "description": "Synchronous Health Talent Handbook",
+  "main": "pages/index.mdx",
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synchealth/handbook"
+  },
+  "homepage": "https://talent.sync.health",
+  "author": {
+    "name": "Synchronous Health, Inc."
+  },
+  "devDependencies": {
+    "@berun/scripts": "^2.2.6",
+    "@bestatic/core": "^2.2.14",
+    "@bestatic/layout": "^2.2.23",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "resolutions": {
+    "babel-core": "^7.0.0-bridge.0"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules && rm -rf yarn.lock",
+    "start": "berun-scripts start:static",
+    "build": "berun-scripts build:algolia:static",
+    "format": "berun-scripts lint"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "algoliasearch": "^3.32.1"
+  }
+}
