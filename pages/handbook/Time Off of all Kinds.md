@@ -21,31 +21,46 @@ Types of time off covered in this section:
 
 ### Holidays and Vacation Time 
 
-* Philosophy on holidays and vacation - because we are a global organization we aim to honor everyone's individual cultural priorities. And we support nurturing your passions and feeding your soul.  At the same time, if we made every National and religious holiday a day off we wouldn't work much, and while we hope it doesn't feel like work, that is why we are here.
+#### work-time versus off-work time:
+Because we are a global organization we aim to honor everyone's priorities & traditions and encourage you to nurture your passions & feed your soul. 
 
-### So in order to keep it simple: Everybody starts with the same amount of "leave time"
-### * 3 weeks (15 working days) and 5 pre-approved Holidays of your choice. (yep, that's 4 weeks!)  
+### So in order to keep it simple: Everybody starts with the same amount of "leave time" = about 6 weeks.
 
-#### We do not choose your Holidays because we do not all follow the same religious or cultural traditions.
+### The break down is as follows: 
+- 23 PTO days which is vacay + sick leave 
+- 7 pre-set holidays
+- 4 floater holidays
+
+#### That's 34 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
 
 ### Honoring Global Tradition
 
-We embrace being a global organization and celebrating all cultures and religions, and individual hallmarks are important to fostering a healthy, inclusive, and empathic work environment. 
+We aim to embrace all cultures and religions - and understand individual hallmarks are important to fostering a healthy, inclusive, and empathic work environment. 
 
-> We cannot celebrate everyone's personally cherished holidays in an effort to be universally tolerant though as this would be constant celebration, and we wouldn't get much work done. 
+> We cannot celebrate everyone's personally cherished holidays in an effort to be universally tolerant though, as this would be constant celebration, and we wouldn't get much work done. 
 
 Therefore celebration for specific holidays are welcome and we encourage you to share about your traditions in the Synchronous community.  These celebrations should occur outside of the typical workday of your team.   
 
-#### Plus ${env.company} chooses to honor 3 additional days that we consider worthy of Vacation time.
+#### Plus ${env.company} chooses to honor some of the standard US Federal Holidays an a few others that we consider worthy of off-work time.
 
-* #### Founders Day - we hope you will join us for the Company celebration and show Guy, Lisa and Kati your gratitude for their synchronous union!
+*  #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
 
-* #### Veterans Day - we aim to honor and respect veterans around the world who have fought for freedom 
+* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless Mission, or the local free clinic.  
 
-* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless Mission, or the local free clinic.   
-* This is not a day to sit at home and chill, there are plenty of available days for that.  
+#### The other Federal Holidays we recognize as off-work days
+
+* New Year's Eve 
+
+* Memorial Day 
+
+* Labor Day 
+
+* Independence Day (July 4th)
+
+* Thanksgiving
+
+* 4 floater holidays to assign to your tradition of choice or any days of the year that suit you!
  
-
 ## Parental Leaves (maternity, paternity & adoption) 
 
 We absolutely support you and taking time off to embrace and adjust a major family change. 
