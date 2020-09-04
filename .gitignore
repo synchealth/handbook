@@ -50,12 +50,12 @@ jspm_packages
 # macOS
 .DS_Store
 
-# package locks
-yarn.lock
-package-lock.json
+# 
+
 .fusebox
 .firebase
-.firebaserc
 
 .env
+env.config.json
+.env-secrets.json
 .debug.webpack*

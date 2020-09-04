@@ -34,12 +34,14 @@ Edit the `firebase.json` or swap out for your favorite static hosting site (or j
 
 ## Credentials for the search index
 
-Create a `.env` file with your algolia admin (write and search) credentials
-```bash
-BERUN_ALGOLIA_APIADMIN = "YOUR_ADMIN_API_KEY_FOR_WRITES"
-BERUN_ALGOLIA_APPID   = "YOUR_APP_ID"
-BERUN_ALGOLIA_APIKEY   = "YOUR_API_KEY_FOR_SEARCH_ONLY"
-BERUN_ALGOLIA_INDEX   = "talent"
+Create a `config/env.config.json` file with your algolia admin (write and search) credentials
+```json
+{
+    "BERUN_ALGOLIA_APIADMIN" : "YOUR_ADMIN_API_KEY_FOR_WRITES"
+    "BERUN_ALGOLIA_APPID" : "YOUR_APP_ID"
+    "BERUN_ALGOLIA_APIKEY" : "YOUR_API_KEY_FOR_SEARCH_ONLY"
+    "BERUN_ALGOLIA_INDEX" : "talent"
+}
 ```
 
 ## Generating the handbook and search index

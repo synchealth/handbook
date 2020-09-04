@@ -6,7 +6,7 @@
 
 ### Pay Schedule: Bi-Monthly
 
-${env.company} pays salaried employees on a bi-weekly basis on the week subsequent to the week worked. Payment is by Direct Deposit on the 1st and 15th of each month.  
+${env.company} pays associates on a bi-weekly basis on the week subsequent to the week worked. Payment is by Direct Deposit on the 1st and 16th of each month.  Some contracted associates my have a different pay schedule arranged per contract.
 
 ### Payment
 

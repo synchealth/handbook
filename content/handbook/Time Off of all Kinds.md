@@ -16,7 +16,7 @@ Types of time off covered in this section:
 - Sabbatical
 
 ### Critical Personnel
- -  if you are in one of these roles, you already know it.  Your holidays and time off will be handled differently. Your supervisor or manager will share the details. 
+-  if you are in one of these roles, you already know it.  Your holidays and time off will be handled differently. Your supervisor or manager will share the details. 
 
 
 ### Holidays and Vacation Time 
@@ -28,10 +28,10 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 
 ### The break down is as follows: 
 - 23 PTO days which is vacay + sick leave 
-- 7 pre-set holidays
+- 6 pre-set holidays
 - 4 floater holidays
 
-#### That's 34 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
+#### That's 33 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
 
 ### Honoring Global Tradition
 
@@ -45,7 +45,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 *  #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
 
-* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless Mission, or the local free clinic.  
+* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless Mission, or the local free clinic.   
 
 #### The other Federal Holidays we recognize as off-work days
 
@@ -61,6 +61,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 * 4 floater holidays to assign to your tradition of choice or any days of the year that suit you!
  
+
 ## Parental Leaves (maternity, paternity & adoption) 
 
 We absolutely support you and taking time off to embrace and adjust a major family change. 
@@ -102,6 +103,7 @@ So before you say "no" give us a chance to see if we can embrace the adventure!
 ### Well Being Leave - Sick Leave - Family & Pet Emergency Leave
 
 We value your health and your sanity.  That is why we offer much more than traditional time off standards.
+
 
 
 

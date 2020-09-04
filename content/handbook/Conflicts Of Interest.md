@@ -1,8 +1,8 @@
 # Conflicts of Interest
 
-> You shouldn't be doing things outside of work that we pay you to do for clients.
+> You shouldn't be doing things outside of work that we pay you to do for customers and participants.
 
-Conflicts of interest arise when a you becomes involved in any business or other activity that may conflict with the best interests of our clients, or in any way, interfere with your ability to completely carry out your responsibilities.
+Conflicts of interest arise when you become involved in any business or other activity that may conflict with the best interests of our customers, or in any way, interfere with your ability to completely carry out your responsibilities.
 
 Our policy is to conduct business ethically and to avoid conflicts of interest or even the appearance of such conflicts.
 
@@ -17,6 +17,6 @@ Conflicts include, but are not limited to, the following situations:
 
 ### What to do if you realize your are In a Conflict of Interest
 
-Bring it to the attention of the HR/Compliance team ASAP. It's likely we can work it out.
+Bring it to the attention of your supervisor or a member of the Talent or Performance teams and we will help work it out.
 
 
