@@ -24,14 +24,23 @@ Types of time off covered in this section:
 #### work-time versus off-work time:
 Because we are a global organization we aim to honor everyone's priorities & traditions and encourage you to nurture your passions & feed your soul. 
 
-### So in order to keep it simple: Everybody starts with the same amount of "leave time" = about 6 weeks.
+### So in order to keep it simple: All Associates below the director level starts with the same amount of "leave time" = about 6 weeks.
 
 ### The break down is as follows: 
-- 23 PTO days which is vacay + sick leave 
+- 23 PTO days 
 - 6 pre-set holidays
 - 4 floater holidays
 
 #### That's 33 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
+
+### PTO Procedures
+
+In addition to vacation, PTO is designed to cover leave for personal sickness, family sickness, family activities and extra holiday time. Associates may find they need time away from work prior to accruing the hours necessary. In such cases, an Associate may build up a negative balance with the prior approval of his or her supervisor.
+
+In general, all PTO must be preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
+
+Associates accrue 7.08 hours of PTO per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
+
 
 ### Honoring Global Tradition
 
@@ -41,11 +50,11 @@ We aim to embrace all cultures and religions - and understand individual hallmar
 
 Therefore celebration for specific holidays are welcome and we encourage you to share about your traditions in the Synchronous community.  These celebrations should occur outside of the typical workday of your team.   
 
-#### Plus ${env.company} chooses to honor some of the standard US Federal Holidays an a few others that we consider worthy of off-work time.
+#### Plus ${env.company} chooses to honor some of the standard US Federal Holidays and a few others that we consider worthy of "off-work" time.
 
 *  #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
 
-* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless Mission, or the local free clinic.   
+* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless mission, or the local free clinic.   
 
 #### The other Federal Holidays we recognize as off-work days
 
@@ -53,13 +62,25 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 * Memorial Day 
 
-* Labor Day 
-
 * Independence Day (July 4th)
+
+* Labor Day 
 
 * Thanksgiving
 
 * 4 floater holidays to assign to your tradition of choice or any days of the year that suit you!
+
+### Floater Holiday Allotment 
+
+-All associates employed on January 1 will received 4 floater holidays to use throughout the calendar year. 
+
+-Associates who join ${env.company} before March 31 will receive 4 Floater days for the calendar year. 
+
+-Associates who join ${env.company} after April 1 and before June 30 will receive 3 floater holidays for the calendar year.   
+
+-Associates who join ${env.company} after July 1 and before Sept 30 will receive 2 floater holidays. for the calendar year. 
+
+-Associates who join ${env.company} after Oct 1 will receive 1 floater holiday for the calendar year. 
  
 
 ## Parental Leaves (maternity, paternity & adoption) 

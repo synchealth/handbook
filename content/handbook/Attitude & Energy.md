@@ -10,10 +10,10 @@ The success of any organization is based on the individual success of each perso
 
 Please continually remind yourselves of this and hold each other accountable for his or her attitude and overall perception.
 
- This includes attitudes about the workplace, our customers and their participants, and fellows - either at home, at work, and especially, in public.
+This includes attitudes about the workplace, our customers and their participants, and fellow associates - either at home, at work, and especially, in public.
 
-- Treat others as you want to be treated 
+- Treat others as you want to be treated. 
 
 
 
-#  “You do not know what is life is like for others, so be kind - no matter what”
+#  “You do not know what life is like for others, so be kind - no matter what”

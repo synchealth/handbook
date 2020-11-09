@@ -8,8 +8,8 @@ import { ServerStyleSheet } from 'styled-components'
 import { theme as themeKarla } from './theme'
 
 export default {
-  getSiteData: async bestatic =>
-    Object.assign({}, bestatic, {
+  getSiteData: async bestatic => {
+    return Object.assign({}, bestatic, {
       theme: themeKarla,
       title: 'Talent Handbook',
       copyright: `Copyright (c) Synchronous Health ${(new Date()).getFullYear()}.`,
@@ -37,7 +37,8 @@ export default {
       isProduction: true or false 
       */
      
-    }),
+    })
+  },
     getRoutes: async (bestatic) => {
       return await getLocalPages(bestatic)
     },

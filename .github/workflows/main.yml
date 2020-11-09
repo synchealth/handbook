@@ -1,0 +1,25 @@
+on: [workflow_dispatch]
+
+jobs:
+  download_job:
+    runs-on: ubuntu-latest
+    name: Download latest content from sharepoint
+    env:
+      MSGRAPH_TENANT: ${{ secrets.MSGRAPH_TENANT }}
+      MSGRAPH_CLIENT_ID: ${{ secrets.MSGRAPH_CLIENT_ID }}
+      MSGRAPH_SECRET: ${{ secrets.MSGRAPH_SECRET }}
+      BERUN_ALGOLIA_APIADMIN: ${{ secrets.BERUN_ALGOLIA_APIADMIN }}
+      BERUN_ALGOLIA_APPID: ${{ secrets.BERUN_ALGOLIA_APPID }}
+      BERUN_ALGOLIA_APIKEY: ${{ secrets.BERUN_ALGOLIA_APIKEY }}
+      BERUN_ALGOLIA_INDEX: ${{ secrets.BERUN_ALGOLIA_INDEX }}
+      FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_SH_TOKEN }}" > ~/.npmrc
+    - run: yarn
+    - run: npm run download-ci
+    - run: npm run build-ci
+    - run: npm run deploy-prod

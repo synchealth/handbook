@@ -7,17 +7,17 @@ Federal and State laws have certain guideline that we use as our foundation and 
 Upon your being hired, a file is established that contains, but is not limited to, the following documentation when applicable:
 
 * Name, address, age, social security number, citizenship.
-* Company application or resume.
+* Company application, resume, and other supporting documents from the hiring process.
 * Occupation, including dates and particulars of hire.
 * A written offer of employment.
 * Compensation (please do not share what you are paid with others).
 * Banking information.
-* Tax information
+* Tax information.
 * Accumulation & Dissemination of leave time.
-* Performance metrics. 
+* Performance metrics and revews. 
 * Change of status forms for any term of employment or personal information that has been altered.
 * Emergency contact information.
-*  Written employment agreements.
+* Written employment agreements.
 
 
 ### Changes to your information

@@ -12,10 +12,16 @@ fi
 echo "\nThere are modified files:"
 echo "${modified_files}\n"
 
-npm version patch --no-git-tag-version
+# npm version patch --no-git-tag-version
 
-BRANCH=$(sh ./scripts/print_git_branch.sh)
+git config --global user.email "ci@sync.health"
+git config --global user.name "Sync Health CI"
+
+mkdir -p ~/.ssh/
+ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
 git add . -A
-git commit -m "auto-publish after sync from SharePoint/OneDrive [ci skip] [skip ci]"
+git commit -m "publish from Sync Studio"
 echo "Pushing branch $BRANCH"
 git push origin HEAD:$BRANCH

@@ -1,6 +1,6 @@
 {
   "name": "@synchealth/handbook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Synchronous Health Talent Handbook",
   "main": "content/index.mdx",
   "author": {
@@ -23,12 +23,14 @@
     "chokidar": "3.4.2"
   },
   "scripts": {
+    "act": "env-cmd -r ./config/.env-secrets.json -e sharepoint act workflow_dispatch -P ubuntu-latest=nektos/act-environments-ubuntu:18.04 -s GITHUB_SH_TOKEN -s MSGRAPH_TENANT -s MSGRAPH_CLIENT_ID -s MSGRAPH_SECRET -s BERUN_ALGOLIA_APIADMIN -s BERUN_ALGOLIA_APPID -s BERUN_ALGOLIA_APIKEY -s BERUN_ALGOLIA_INDEX -s FIREBASE_TOKEN",
     "clean": "rm -rf node_modules && rm -rf yarn.lock",
     "download": "env-cmd -r ./config/.env-secrets.json -e sharepoint syncpack-download",
-    "download-ci": "syncpack-download && sh scripts/npm_patch_and_git_push_if_modified.sh",
+    "download-ci": "syncpack-download &&./.github/scripts/npm_patch_and_git_push_if_modified.sh",
     "start": "berun-scripts start:static",
-    "build": "berun-scripts build:algolia:static",
-    "format": "berun-scripts lint"
+    "build": "env-cmd -r ./config/.env-secrets.json -e sharepoint berun-scripts build:algolia:static",
+    "build-ci": "berun-scripts build:algolia:static",
+    "deploy-prod": "firebase deploy --only hosting"
   },
   "syncpack": {
     "msgroupid": "04df4f30-7113-42bf-833a-0e97367e9e0f",
@@ -36,13 +38,15 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "syncpack": "git+ssh://git@bitbucket.org:synchealth/syncpack.git#v1.6.0",
-    "@bestatic/core": "^3.0.29",
-    "styled-components": "^5.1.1",
+    "@synchealthlabs/syncpack": "^1.7.1",
     "@berun/scripts": "^3.0.24",
+    "@bestatic/core": "^3.0.29",
     "@bestatic/layout": "^3.0.24",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "env-cmd": "^10.1.0",
+    "firebase-tools": "^8.15.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "styled-components": "^5.2.1"
   },
   "peerDependencies": {}
 }

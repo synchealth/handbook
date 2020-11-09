@@ -2,5 +2,10 @@
     "search.exclude": {
         "**/node_modules": true,
         "**/build-static": true,
+      },
+      "files.exclude": {
+        ".firebase": true,
+        "build-static": true,
+        "node_modules": true
       }
 }
