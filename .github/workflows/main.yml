@@ -1,4 +1,18 @@
-on: [workflow_dispatch]
+on: 
+  workflow_dispatch:
+    inputs:
+        name:
+          description: 'Name of user requesting job'     
+          required: true
+          default: 'Sync Health CI'
+        email:
+          description: 'Email address of user requesting job'     
+          required: true
+          default: 'ci@sync.health'
+        message:
+          description: 'Commit message'  
+          required: true
+          default: 'publish from Sync Studio'
 
 jobs:
   download_job:
@@ -13,6 +27,9 @@ jobs:
       BERUN_ALGOLIA_APIKEY: ${{ secrets.BERUN_ALGOLIA_APIKEY }}
       BERUN_ALGOLIA_INDEX: ${{ secrets.BERUN_ALGOLIA_INDEX }}
       FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+      USER_EMAIL: ${{ github.event.inputs.email }}
+      USER_NAME: ${{ github.event.inputs.name }}
+      MESSAGE: ${{ github.event.inputs.message }}
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
