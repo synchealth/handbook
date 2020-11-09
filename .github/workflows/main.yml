@@ -18,7 +18,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12'
-    - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_SH_TOKEN }}" > ~/.npmrc
+    - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.NPM_SH_TOKEN }}" > ~/.npmrc
     - run: yarn
     - run: npm run download-ci
     - run: npm run build-ci

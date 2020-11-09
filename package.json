@@ -23,7 +23,7 @@
     "chokidar": "3.4.2"
   },
   "scripts": {
-    "act": "env-cmd -r ./config/.env-secrets.json -e sharepoint act workflow_dispatch -P ubuntu-latest=nektos/act-environments-ubuntu:18.04 -s GITHUB_SH_TOKEN -s MSGRAPH_TENANT -s MSGRAPH_CLIENT_ID -s MSGRAPH_SECRET -s BERUN_ALGOLIA_APIADMIN -s BERUN_ALGOLIA_APPID -s BERUN_ALGOLIA_APIKEY -s BERUN_ALGOLIA_INDEX -s FIREBASE_TOKEN",
+    "act": "env-cmd -r ./config/.env-secrets.json -e sharepoint act workflow_dispatch -P ubuntu-latest=nektos/act-environments-ubuntu:18.04 -s NPM_SH_TOKEN -s MSGRAPH_TENANT -s MSGRAPH_CLIENT_ID -s MSGRAPH_SECRET -s BERUN_ALGOLIA_APIADMIN -s BERUN_ALGOLIA_APPID -s BERUN_ALGOLIA_APIKEY -s BERUN_ALGOLIA_INDEX -s FIREBASE_TOKEN",
     "clean": "rm -rf node_modules && rm -rf yarn.lock",
     "download": "env-cmd -r ./config/.env-secrets.json -e sharepoint syncpack-download",
     "download-ci": "syncpack-download &&./.github/scripts/npm_patch_and_git_push_if_modified.sh",
