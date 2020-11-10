@@ -15,9 +15,9 @@ on:
           default: 'publish from Sync Studio'
 
 jobs:
-  download_job:
+  publish_job:
     runs-on: ubuntu-latest
-    name: Download latest content from sharepoint
+    name: Publish latest content from sharepoint
     env:
       MSGRAPH_TENANT: ${{ secrets.MSGRAPH_TENANT }}
       MSGRAPH_CLIENT_ID: ${{ secrets.MSGRAPH_CLIENT_ID }}
