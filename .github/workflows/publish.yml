@@ -38,6 +38,11 @@ jobs:
       MESSAGE: ${{ github.event.inputs.message }}
     steps:
     - uses: actions/checkout@v2
+    - uses: synchealthlabs/github-action-teams@main
+        with:
+          github-token: ${{ github.token }}
+          webhook-uri: ${{ secrets.MS_TEAMS_WEBHOOK_URI }}
+          position: start
     - uses: actions/setup-node@v1
       with:
         node-version: '12'
@@ -46,3 +51,9 @@ jobs:
     - run: npm run download-ci
     - run: npm run build-ci
     - run: npm run deploy-prod
+    - uses: synchealthlabs/github-action-teams@main
+        if: always() # to let this step always run even if previous step(s) failed
+        with:
+          github-token: ${{ github.token }}
+          webhook-uri: ${{ secrets.MS_TEAMS_WEBHOOK_URI }}
+          position: finish
