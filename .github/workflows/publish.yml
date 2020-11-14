@@ -51,6 +51,7 @@ jobs:
         name: ${{ github.event.inputs.name }}
         email:  ${{ github.event.inputs.email }}
         message: ${{ github.event.inputs.message }}
+        env: ${{ github.event.inputs.env }}
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
@@ -70,4 +71,5 @@ jobs:
         name: ${{ github.event.inputs.name }}
         email:  ${{ github.event.inputs.email }}
         message: ${{ github.event.inputs.message }}
+        env: ${{ github.event.inputs.env }}
         publish-url: ${{ github.event.inputs['publish-url'] }}
