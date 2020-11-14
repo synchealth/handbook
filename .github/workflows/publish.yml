@@ -43,6 +43,10 @@ jobs:
         github-token: ${{ github.token }}
         webhook-uri: ${{ secrets.MS_TEAMS_WEBHOOK_URI }}
         position: start
+        status: ${{ job.status }}
+        name: ${{ github.event.inputs.name }}
+        email:  ${{ github.event.inputs.email }}
+        message: ${{ github.event.inputs.message }}
     - uses: actions/setup-node@v1
       with:
         node-version: '12'
@@ -57,3 +61,7 @@ jobs:
         github-token: ${{ github.token }}
         webhook-uri: ${{ secrets.MS_TEAMS_WEBHOOK_URI }}
         position: finish
+        status: ${{ job.status }}
+        name: ${{ github.event.inputs.name }}
+        email:  ${{ github.event.inputs.email }}
+        message: ${{ github.event.inputs.message }}
