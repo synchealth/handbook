@@ -23,6 +23,9 @@ on:
           description: 'Url of website once published'  
           required: true
           default: 'https://talent.sync.health'
+        subscription:
+          required: true
+          description: Web-push subscription record in lzw compressed base62
 
 jobs:
   publish_job:
@@ -42,6 +45,19 @@ jobs:
       MESSAGE: ${{ github.event.inputs.message }}
       PUBLISH_URL: ${{ github.event.inputs['publish-url'] }}
     steps:
+    - uses: synchealthlabs/github-action-webpush@main
+      with:
+        type: start
+        github-token: ${{ github.token }}
+        subject: ${{ secrets.WEBPUSH_EMAIL }}
+        public-key: ${{ secrets.WEBPUSH_VAPID_PUBLIC_KEY }}
+        private-key: ${{ secrets.WEBPUSH_VAPID_PRIVATE_KEY }}
+        subscription: ${{ github.event.inputs.subscription }}
+        status: ${{ job.status }}
+        name: ${{ github.event.inputs.name }}
+        email:  ${{ github.event.inputs.email }}
+        message: ${{ github.event.inputs.message }}
+        env: ${{ github.event.inputs.env }}
     - uses: synchealthlabs/github-action-teams@main
       with:
         type: start
@@ -61,6 +77,21 @@ jobs:
     - run: npm run download-ci
     - run: npm run build-ci
     - run: npm run deploy-prod
+    - uses: synchealthlabs/github-action-webpush@main
+      if: always() # to let this step always run even if previous step(s) failed
+      with:
+        github-token: ${{ github.token }}
+        subject: ${{ secrets.WEBPUSH_EMAIL }}
+        public-key: ${{ secrets.WEBPUSH_VAPID_PUBLIC_KEY }}
+        private-key: ${{ secrets.WEBPUSH_VAPID_PRIVATE_KEY }}
+        subscription: ${{ github.event.inputs.subscription }}
+        type: finish
+        status: ${{ job.status }}
+        name: ${{ github.event.inputs.name }}
+        email:  ${{ github.event.inputs.email }}
+        message: ${{ github.event.inputs.message }}
+        env: ${{ github.event.inputs.env }}
+        publish-url: ${{ github.event.inputs['publish-url'] }}
     - uses: synchealthlabs/github-action-teams@main
       if: always() # to let this step always run even if previous step(s) failed
       with:
