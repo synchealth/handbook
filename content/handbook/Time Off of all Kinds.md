@@ -27,11 +27,13 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 ### So in order to keep it simple: All Associates below the director level starts with the same amount of "leave time" = about 6 weeks.
 
 ### The break down is as follows: 
-- 23 PTO days 
-- 6 pre-set holidays
-- 4 floater holidays
+- 23 PTO days* 
+- 5 pre-set holidays  
+- 4 floater holidays 
 
-#### That's 33 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
+* California associates receive 20 days of PTO and 3 sick days. 
+
+#### That's 32 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
 
 ### PTO Procedures
 
@@ -54,7 +56,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 *  #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
 
-* #### R.A.K. day - Our mission is promoting Kindness.  So everyone is encouraged to take a day for Random Acts of Kindness, a day to be of service to your community.  Use this time to serve at Habitat for Humanity, the homeless mission, or the local free clinic.   
+* #### R.A.K. day - Our mission is promoting Kindness.  Managers are encouraged to create time for their team  to do Random Acts of Kindness, such as a day to be of service to the community.  
 
 #### The other Federal Holidays we recognize as off-work days
 
