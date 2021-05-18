@@ -52,13 +52,7 @@ We aim to embrace all cultures and religions - and understand individual hallmar
 
 Therefore celebration for specific holidays are welcome and we encourage you to share about your traditions in the Synchronous community.  These celebrations should occur outside of the typical workday of your team.   
 
-#### Plus ${env.company} chooses to honor some of the standard US Federal Holidays and a few others that we consider worthy of "off-work" time.
-
-*  #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
-
-* #### R.A.K. day - Our mission is promoting Kindness.  Managers are encouraged to create time for their team  to do Random Acts of Kindness, such as a day to be of service to the community.  
-
-#### The other Federal Holidays we recognize as off-work days
+#### ${env.company} also chooses to honor some of the standard US Federal Holidays.  Here are the other Federal Holidays we recognize as off-work days
 
 * New Year's Eve 
 
@@ -83,7 +77,14 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 -Associates who join ${env.company} after July 1 and before Sept 30 will receive 2 floater holidays. for the calendar year. 
 
 -Associates who join ${env.company} after Oct 1 will receive 1 floater holiday for the calendar year. 
- 
+
+### There is another special day that we consider worthy of dedicated celebration in honor of what we are all doing here:
+
+> #### Karla's BotDay - Karla's official creation day is 6/6/16 and we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
+
+* This is a day designed to honor our mission - promoting Kindness. A portion of this day will shift your attention from working directly with customers or participants and allow us all to be "together" in a planned company celebration.  
+
+* This doesn't have to be the only day to act on Karla's behalf, our managers are encouraged to create time for their team to do Random Acts of Kindness, such as a collaborative project in service to the community. So, if you have an idea, bring it to your manager's attention and SPREAD THE KINDNESS WITH YOUR TEAM!
 
 ## Parental Leaves (maternity, paternity & adoption) 
 
