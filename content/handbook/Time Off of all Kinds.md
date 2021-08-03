@@ -27,11 +27,13 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 ### So in order to keep it simple: All Associates below the director level starts with the same amount of "leave time" = about 6 weeks.
 
 ### The break down is as follows: 
-- 23 PTO days* 
+- 23 PTO days ** 
 - 5 pre-set holidays  
 - 4 floater holidays 
 
-* California associates receive 20 days of PTO and 3 sick days. 
+** California associates receive 20 days of PTO and 3 sick days. 
+
+** part-time associates will accrue PTO on a pro-rated basis
 
 #### That's 32 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
 

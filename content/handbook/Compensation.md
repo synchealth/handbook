@@ -18,9 +18,9 @@ If by chance you cannot receive pay by Direct Deposit, you may be paid by check 
 
 ### Employment Status
 
-Full-time is defined as working a regular 30 hours or more per week. 
+Full-time for benefits eligibilty purposes, is defined as working a regular 30 hours or more per week 
 
-Part-time is 29 hours or less per week.  
+Part-time, for benefits eligibility,  is 29 hours or less per week.  
 
 Independent Contractors may fill a temporary vacancy or carry out a specific function for a period of time.
 

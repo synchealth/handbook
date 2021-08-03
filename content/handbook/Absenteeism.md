@@ -8,7 +8,7 @@ Many of the innovation and operations at ${env.company} are interdependent on co
 
 - PLEASE be respectful of our mission and your team - Be punctual and consistent with your schedule. 
 
-${env.company} has [flexible hours](hours.md) for most positions with the exception of positions that are critical to client-facing localized hours (e.g. tech support, crisis response, front desk, etc.) for reasons of [customer-service](manual/customer-service.md). 
+${env.company} has [flexible hours](hours.md) for most positions with the exception of positions that are critical to client-facing localized hours (e.g. tech support, clinical services, crisis response, front desk, etc.) for reasons of [customer-service](manual/customer-service.md). 
 
 You are responsible for contacting your managers before the start of the committed hours if you are going to be absent or late. 
 

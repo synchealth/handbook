@@ -8,7 +8,7 @@ ${env.company} wants our associates to be using the technical hardware that is c
 
 ### Requirements
 
-"Associate understands that they must have the necessary equipment and environment to conduct remote work for the company.   They must have a computer or laptop with a webcam and dual monitors, high-speed Internet with a direct connection, an audio source and a headset to support the audio source, a battery backup device, and a secure place to work with four walls and a door to simulate an office space."
+"Associate understands that they must have the necessary equipment and environment to conduct remote work for the company. They must have a computer or laptop with a webcam, high-speed Internet with a direct connection, an audio source and a headset to support the audio source, a battery backup device, and a secure place to work with four walls and a door to simulate an office space."
 
 ### Hardship
 
