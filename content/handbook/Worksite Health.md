@@ -45,13 +45,13 @@ See [**CDC Website**](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/your-va
 
 If you are assigned to a customer account that requires documentation of immunization, and are likely to serve or visit them in a physical capacity (as opposed to telehealth where no face to face interaction is expected), then you will need to provide this information to our Human Talent team, via the secure upload facility provided.
 
-You can do so by uploading a record of your immunization history (e.g., United States CDC Vaccination Card) and/or a signed note from your physician providing reasons for a medical exemption, and/or a signed note from you indicating a sincerely held religious exemption.  
+You can do so by uploading a record of your immunization history (e.g., United States CDC Vaccination Card) and/or a signed note from your physician providing reasons for a [**medical exemption**](https://bit.ly/3xN5PVD), and/or a signed note from you indicating a sincerely held religious exemption.  
 
 We generally do not provide individual status to our customers but rather report compliance with their needs in the aggregate;  you are free to provide any information asked on an individual basis (e.g., to gain entry to a facility) but we do not require you to do so and will provide a generic letter and QR code upon request that you have met our compliance needs
 
 Exemptions are expected to be rare, but to make this easy we provide a link in the submission form to some pre-completed verbiage that has been acceptable in the past. 
 
-If you have evidence of natural immunity, for example as evidenced by positive serology/antibody tests and other adaptive immune response tests that is supported by the scientific literature (e.g., [https://doi.org/10.1016/j.xcrm.2021.100354](https://doi.org/10.1016/j.xcrm.2021.100354)), then you may provide the test results from an accredited testing center that includes:
+If you have evidence of natural immunity, for example as evidenced by positive serology/antibody tests and other adaptive immune response tests that is supported by the scientific literature (e.g., [**doi.org/10.1016/j.xcrm.2021.100354**](https://doi.org/10.1016/j.xcrm.2021.100354)), then you may provide the test results from an accredited testing center that includes:
 - Type of test (indicating it is antibody test and not a test for active infection)
 - Entity issuing the result (e.g. laboratory, healthcare entity, or telehealth service), and name of the overseeing physician
 - Specimen collection date
