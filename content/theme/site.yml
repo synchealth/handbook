@@ -1,0 +1,39 @@
+---
+title: Talent Handbook
+siteUrl: https://talent.sync.health
+description: Sync Health Talent Handbook
+framework: bestatic
+social:
+  - name: twitter
+    url: https://twitter.com/Karla_SyncHlth
+  - name: instagram
+    url: https://www.instagram.com/karla_sync.health/
+  - name: linkedin
+    url: https://www.linkedin.com/company/synchronous-health-inc./
+  - name: facebook
+    url: https://www.facebook.com/SynchronousHealth
+bestatic:
+  title: Talent Handbook
+  copyright: Copyright (c) Synchronous Health 2021
+  company: Synchronous Health
+  companylegalname: Synchronous Health, Inc.
+  companymission: Achieving the best of what it means to be human thus creating a kinder world.
+  logo: /logo.svg
+  herologo: /herologo.svg
+  footer: 
+    href: https://sync.health
+    label: sync.health
+  topnav: 
+    - href: /handbook
+      label: handbook
+manifest:
+  appName: Talent Handbook
+  appShortName: Talent Handbook
+  appDescription: Sync Health Talent Handbook
+  start_url: /
+  background: "#fff"
+  theme_color: "#fff"   
+  display: standalone
+  alwaysEmitFull: false
+googleAnalytics:
+  trackingId: UA-84061010-6
