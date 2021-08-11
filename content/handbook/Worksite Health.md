@@ -21,7 +21,7 @@ We layer on respect for our customers and the populations that they in turn serv
 
 ## Vaccination mandates
 
-Post the onset of COVID-19, some of our customers introduced temporary or indefinite vaccination mandates.    Our current approach based on respect for both our associates and our customers, is to assure our customers than any of our associates, vendors, or partners that serve such a customer in a physical onsite setting (or are likely to do so in the near future) will be vaccinated, have natural immunity, or have an approved exemption on medical or spiritual beliefs.  
+Post the onset of COVID-19, some of our customers introduced temporary or indefinite vaccination mandates.    Our current approach is to assure our customers than any of our associates, vendors, or partners that serve such a customer in a physical onsite setting (or are likely to do so in the near future) will be vaccinated, have natural immunity, or have an approved exemption on medical or spiritual beliefs.  
 
 > Some customers may ask for proof of vaccination, immunity, or an exemption on medical or religious grounds
 
@@ -37,10 +37,11 @@ See [**CDC Website**](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/your-va
 
 > Scan or click on the button below to assert your compliance now.
 
-
 [![Upload Proof](https://firebasestorage.googleapis.com/v0/b/karla-labs.appspot.com/o/public%2FQRCode%20for%20COVID-19%20Vaccination%20Status%20Form.png?alt=media&token=29fa8064-db9d-4ca9-9761-50e29ccd6fa1)](https://forms.office.com/r/h1CvT9q8k0)
 
-<button href="https://forms.office.com/r/h1CvT9q8k0">Upload Proof of Vaccination or Request Exemption</button>
+<form action="https://forms.office.com/r/h1CvT9q8k0">
+    <input type="submit" value="Upload Proof of Vaccination or Request Exemption" />
+</form>
 
 If you are assigned to a customer account that requires documentation of immunization, and are likely to serve or visit them in a physical capacity (as opposed to telehealth where no face to face interaction is expected), then you will need to provide this information to our Human Talent team, via the secure upload facility provided.
 
@@ -48,9 +49,9 @@ You can do so by uploading a record of your immunization history (e.g., United S
 
 We generally do not provide individual status to our customers but rather report compliance with their needs in the aggregate;  you are free to provide any information asked on an individual basis (e.g., to gain entry to a facility) but we do not require you to do so and will provide a generic letter and QR code upon request that you have met our compliance needs
 
-Exemptions are expected to be rare, but to make this easy we provide a link to some pre-completed verbiage that has been acceptable in the past.    Each situation and any accomodations requested are considered individually in an interactive process with Human Talent and other personnel.
+Exemptions are expected to be rare, but to make this easy we provide a link in the submission form to some pre-completed verbiage that has been acceptable in the past. 
 
-If you have evidence of natural immunity, for example as evidenced by positive serology/antibody tests and other adaptive immune response tests that is supported by the scientific literature (e.g., [https://doi.org/10.1016/j.xcrm.2021.100354](https://doi.org/10.1016/j.xcrm.2021.100354), then you may provide the test results from an accredited testing center that includes:
+If you have evidence of natural immunity, for example as evidenced by positive serology/antibody tests and other adaptive immune response tests that is supported by the scientific literature (e.g., [https://doi.org/10.1016/j.xcrm.2021.100354](https://doi.org/10.1016/j.xcrm.2021.100354)), then you may provide the test results from an accredited testing center that includes:
 - Type of test (indicating it is antibody test and not a test for active infection)
 - Entity issuing the result (e.g. laboratory, healthcare entity, or telehealth service), and name of the overseeing physician
 - Specimen collection date
@@ -65,7 +66,7 @@ If you have evidence of natural immunity, for example as evidenced by positive s
 For offices that are majority owned or leased by ${env.company} and shared with partners, investors or customers, we follow our own policy and local guidelines, which at times may be more risk averse or less risk averse than that of our business partners.   We do this to best respond to and respect local needs and business agility.
 
 
-## Subject to change
+## Looking ahead
 
 > Things can change rapidly
 
