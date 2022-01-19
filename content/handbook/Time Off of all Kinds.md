@@ -56,7 +56,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 #### ${env.company} also chooses to honor some of the standard US Federal Holidays.  Here are the other Federal Holidays we recognize as off-work days
 
-* New Year's Eve 
+* New Year's Day
 
 * Memorial Day 
 
@@ -66,9 +66,11 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 * Thanksgiving
 
-* 4 floater holidays to assign to your tradition of choice or any days of the year that suit you!
+* 4 Floater Holidays to celebrate the tradtion of. your choosing or any day you see fit
 
 ### Floater Holiday Allotment 
+
+Floating holidays are available at the beginning of each calendar year for all current associates. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open.
 
 -All associates employed on January 1 will received 4 floater holidays to use throughout the calendar year. 
 
@@ -79,6 +81,8 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 -Associates who join ${env.company} after July 1 and before Sept 30 will receive 2 floater holidays. for the calendar year. 
 
 -Associates who join ${env.company} after Oct 1 will receive 1 floater holiday for the calendar year. 
+
+Floating holidays will not be carried over to the next calendar year, nor may they be cashed out if not taken or paid upon termination of employment. 
 
 ### There is another special day that we consider worthy of dedicated celebration in honor of what we are all doing here:
 
