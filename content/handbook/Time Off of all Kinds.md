@@ -43,7 +43,9 @@ In addition to vacation, PTO is designed to cover leave for personal sickness, f
 
 In general, all PTO must be preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
 
-Associates accrue 7.08 hours of PTO per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
+Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
+
+PTO will be paid out at separation in accordance with state law. 
 
 
 ### Honoring Global Tradition
@@ -70,17 +72,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 ### Floater Holiday Allotment 
 
-Floating holidays are available at the beginning of each calendar year for all current associates. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open.
-
--All associates employed on January 1 will received 4 floater holidays to use throughout the calendar year. 
-
--Associates who join ${env.company} before March 31 will receive 4 Floater days for the calendar year. 
-
--Associates who join ${env.company} after April 1 and before June 30 will receive 3 floater holidays for the calendar year.   
-
--Associates who join ${env.company} after July 1 and before Sept 30 will receive 2 floater holidays. for the calendar year. 
-
--Associates who join ${env.company} after Oct 1 will receive 1 floater holiday for the calendar year. 
+Floating holidays are available upon hire and reset on your work anniversary. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open.
 
 Floating holidays will not be carried over to the next calendar year, nor may they be cashed out if not taken or paid upon termination of employment. 
 
