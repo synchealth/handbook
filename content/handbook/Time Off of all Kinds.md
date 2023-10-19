@@ -24,24 +24,24 @@ Types of time off covered in this section:
 #### work-time versus off-work time:
 Because we are a global organization we aim to honor everyone's priorities & traditions and encourage you to nurture your passions & feed your soul. 
 
-### So in order to keep it simple: All Associates below the director level starts with the same amount of "leave time" = about 6 weeks.
+### So in order to keep it simple: All Associates below the manager level starts with the same amount of "leave time" = about 6 weeks.
 
 ### The break down is as follows: 
 - 23 PTO days ** 
 - 5 pre-set holidays  
 - 4 floater holidays 
 
-** California associates receive 20 days of PTO and 3 sick days. 
+** As of January 1, 2024, California associates receive 18 days of PTO and 5 sick days. 
 
-** part-time associates will accrue PTO on a pro-rated basis
+** PTO is accrued every pay period and part-time associates will accrue PTO on a pro-rated basis
 
 #### That's 32 days (weekdays) to take care of yourself, your family, honoring culture or tradition or just loving life! 
 
 ### PTO Procedures
 
-In addition to vacation, PTO is designed to cover leave for personal sickness, family sickness, family activities and extra holiday time. Associates may find they need time away from work prior to accruing the hours necessary. In such cases, an Associate may build up a negative balance with the prior approval of his or her supervisor.
+In addition to vacation, PTO is designed to cover leave for personal sickness, family sickness, bereavement, family activities and extra holiday time. Associates may find they need time away from work prior to accruing the hours necessary. In such cases, an Associate may build up a negative balance with the prior approval of his or her supervisor.
 
-In general, all PTO must be preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
+In general, all PTO must be submitted in Paychex and preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
 
 Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
 
@@ -68,11 +68,11 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 * Thanksgiving
 
-* 4 Floater Holidays to celebrate the tradtion of. your choosing or any day you see fit
+* 4 Floater Holidays to celebrate the tradtion of your choosing or any day you see fit
 
 ### Floater Holiday Allotment 
 
-Floating holidays are available upon hire and reset on your work anniversary. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open.
+Floating holidays are available upon hire and reset on your work anniversary. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open. 
 
 Floating holidays will not be carried over to the next calendar year, nor may they be cashed out if not taken or paid upon termination of employment. 
 
@@ -84,7 +84,9 @@ Floating holidays will not be carried over to the next calendar year, nor may th
 
 * This doesn't have to be the only day to act on Karla's behalf, our managers are encouraged to create time for their team to do Random Acts of Kindness, such as a collaborative project in service to the community. So, if you have an idea, bring it to your manager's attention and SPREAD THE KINDNESS WITH YOUR TEAM!
 
-## Parental Leaves (maternity, paternity & adoption) 
+## Parental Leaves (school events, maternity, paternity & adoption) 
+
+Children are important and we know raising them is hard and we don't want to miss those special moments like school recitals, IEPs and parent-teacher conferences.  Please submit any requests for time off related to school events at least one week in advance with your manager. 
 
 We absolutely support you and taking time off to embrace and adjust a major family change. 
 
@@ -95,14 +97,19 @@ After one year of service you are eligible for:
 * 8 weeks paid for birth 
 * 6 weeks paid for non-birth parent or adoption
 * The remainder of your FMLA term is unpaid but available for use up to one year. 
-*  Any arrangements consistent with this policy can be made with their manager and approved by HR. (i.e. remote working, part time hours, etc.)
+* paid leave works in conjuction with state paid leaves and our short-term disability coverage.
+* Any arrangements consistent with this policy can be made with their manager and approved by HR. (i.e. remote working, part time hours, etc.)
 
 Questions?  Talk with your manager or the Talent Team and we will try to support your needs.
+
+## Lactation Support
+
+For up to one year after the child's birth, any associate who is breastfeeding will be provided reasonable break times to express breast milk. Breaks beyond standard breaks will be unpaid, and recorded on timesheets where appropriate.
 
 
 ## Extended Leave
 
-If you need an extended absence for treatment of an illness or the care of a loved one, please talk with your supervisor or Talent Team and we will try to support what you need.  We comply with all State and Federal laws regarding 
+If you need an extended absence for treatment of an illness or the care of a loved one, please talk with your supervisor or Talent Team and we will try to support what you need.  We comply with all State and Federal laws regarding leave.
 
 
 ## Jury Duty 
@@ -122,7 +129,7 @@ So before you say "no" give us a chance to see if we can embrace the adventure!
 
 
 
-### Well Being Leave - Sick Leave - Family & Pet Emergency Leave
+### Well Being Leave - Sick Leave - Family & Pet Emergency Leave- Bereavement
 
 We value your health and your sanity.  That is why we offer much more than traditional time off standards.
 

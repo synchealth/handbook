@@ -6,7 +6,7 @@
 
 The following is a brief description of our benefit program. Upon eligibility, you will receive a more detailed and comprehensive package. 
 
-Any associate consistently working 30 hours or more are eligible to participate in our healthcare benefits program. 
+Any associate consistently working 24 hours or more are eligible to participate in our healthcare benefits program, however some benefits are limited to 30+ hour associates. 
 
 #### ${env.company} covers the associate portion fully and associates have option to purchase additional family coverage. 
 
@@ -19,8 +19,11 @@ Benefit programs are in place for:
 - Health Care
 - Vision
 - Dental
-- Long Term Disability
+- Short & Long Term Disability
 - 401K
+- Life Insurance
+- Health Savings Accounts
+
 
 All dental, vision and health forms should be submitted directly to the talent team upon hiring for enrollment to occur. 
 
