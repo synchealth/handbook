@@ -74,7 +74,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 Floating holidays are available upon hire and reset on your work anniversary. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Synchronous Health remains open. 
 
-Floating holidays will not be carried over to the next calendar year, nor may they be cashed out if not taken or paid upon termination of employment. 
+Floating holidays resetcannot be cashed out if not taken or paid upon termination of employment. 
 
 ### There is another special day that we consider worthy of dedicated celebration in honor of what we are all doing here:
 
