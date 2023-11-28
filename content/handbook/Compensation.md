@@ -4,9 +4,9 @@
 
 
 
-### Pay Schedule: Bi-Monthly
+### Pay Schedule: Bi-Weekly
 
-${env.company} pays associates on a bi-weekly basis on the week subsequent to the week worked. Payment is by Direct Deposit on the 1st and 16th of each month.  Some contracted associates my have a different pay schedule arranged per contract.
+${env.company} is moving to a bi-weekly pay schedule starting in 2024. Payment is by Direct Deposit every other Friday.  Some contracted associates my have a different pay schedule arranged per contract.
 
 ### Payment
 

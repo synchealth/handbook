@@ -14,7 +14,5 @@ This is where you can go to do a number of nifty things regarding administration
 - participate in company trainings as directed by your manager
 
 
-*They do not currently service our health insurance benefits but this may change for 2021.  So anything regarding your health insurance coverage should be addressed with the Talent team.* 
-
 #### ${env.company} wants you to be empowered to have access to your information when you need it, so please let us know if there is something you would like to see here that isn't immediately available. 
 

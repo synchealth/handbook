@@ -6,13 +6,13 @@
 
 The following is a brief description of our benefit program. Upon eligibility, you will receive a more detailed and comprehensive package. 
 
-Any associate consistently working 24 hours or more are eligible to participate in our healthcare benefits program, however some benefits are limited to 30+ hour associates. 
+Any associate consistently working 20 hours or more are eligible to participate in our healthcare benefits program, however some benefits are limited to 30+ hour associates. 
 
 #### ${env.company} covers the associate portion fully and associates have option to purchase additional family coverage. 
 
 Participation in the program is mandatory unless proper documentation is provided directly opting-out of health care benefits. 
 
-During completion of your hiring paperwork you will receive a form to enroll or opt out of health benefits.  
+During completion of your hiring paperwork you will receive a link to Employee Navigator to enroll or opt out of health benefits.  
 
 Benefit programs are in place for:
 
@@ -25,7 +25,7 @@ Benefit programs are in place for:
 - Health Savings Accounts
 
 
-All dental, vision and health forms should be submitted directly to the talent team upon hiring for enrollment to occur. 
+All dental, vision and health forms should be submitted directly via Employee Navigator upon hiring for enrollment to occur. 
 
 Any changes to personal data, including dependent information, needs to be communicated promptly to the talent team to avoid interruptions in benefit involvement.
 
