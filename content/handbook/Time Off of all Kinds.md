@@ -31,7 +31,7 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 - 5 pre-set holidays  
 - 4 floater holidays 
 
-** As of January 1, 2024, California associates receive 18 days of PTO and 5 sick days. 
+** As of January 1, 2024, California associates receive 18 days of PTO and 5 sick days. PTO in states with mandatory sick leave may be a combination of PTO/Sick Leave equal to 23 days. 
 
 ** PTO is accrued every pay period and part-time associates will accrue PTO on a pro-rated basis
 
@@ -45,7 +45,7 @@ In general, all PTO must be submitted in Paychex and preapproved by and presched
 
 Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
 
-PTO will be paid out at separation in accordance with state law. 
+PTO will not be paid out at separation unless required by state law. 
 
 
 ### Honoring Global Tradition
@@ -68,7 +68,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 * Thanksgiving
 
-* 4 Floater Holidays to celebrate the tradtion of your choosing or any day you see fit
+* 4 Floater Holidays to celebrate the tradtion of your choosing or any day you see fit (prorated for PT associates)
 
 ### Floater Holiday Allotment 
 

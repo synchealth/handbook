@@ -27,6 +27,8 @@ Benefit programs are in place for:
 
 All dental, vision and health forms should be submitted directly via Employee Navigator upon hiring for enrollment to occur. 
 
+Health insurance benefits start on the first day worked and end upon separation.  Dental and Vision insurance start on the 1st of the month following start date and end upon separation.
+
 Any changes to personal data, including dependent information, needs to be communicated promptly to the talent team to avoid interruptions in benefit involvement.
 
 ### Everyone Must Comply
