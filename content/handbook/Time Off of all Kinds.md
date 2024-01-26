@@ -43,7 +43,7 @@ In addition to vacation, PTO is designed to cover leave for personal sickness, f
 
 In general, all PTO must be submitted in Paychex and preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
 
-Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO. Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
+Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO (pro-rated for part-time associates). Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
 
 PTO will not be paid out at separation unless required by state law. 
 
