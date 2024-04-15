@@ -41,7 +41,7 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 
 In addition to vacation, PTO is designed to cover leave for personal sickness, family sickness, bereavement, family activities and extra holiday time. Associates may find they need time away from work prior to accruing the hours necessary. In such cases, an Associate may build up a negative balance with the prior approval of his or her supervisor.
 
-In general, all PTO must be submitted in Paychex and preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
+In general, all PTO must be submitted in Paychex at least 10 days before taken and preapproved by and prescheduled with the Associate’s supervisor and may be taken in 4 hour increments. Approval for all scheduled time away is subject to applicable workloads. In case of an emergency, however, Associates shall be allowed to take up to 24 hours of unscheduled PTO with less than 24 hours’ notice and regardless of applicable workload.
 
 Associates accrue PTO based on hours worked per pay period.   Associates can accrue a maximum of 184 hours of PTO (pro-rated for part-time associates). Associates with 184 hours of PTO will not accrue PTO until their PTO balance falls below 184 hours.
 
@@ -114,7 +114,7 @@ If you need an extended absence for treatment of an illness or the care of a lov
 
 ## Jury Duty 
 
-Should you get selected, we understand you may need to serve. and we will comply with State law, you will not be penalized in any way.
+Should you get selected, we understand you may need to serve. and we will comply with State law, you will not be penalized in any way. Please use your generous PTO to cover jury duty leave. 
 
 
 ##  Sabbatical Leave
@@ -131,7 +131,7 @@ So before you say "no" give us a chance to see if we can embrace the adventure!
 
 ### Well Being Leave - Sick Leave - Family & Pet Emergency Leave- Bereavement
 
-We value your health and your sanity.  That is why we offer much more than traditional time off standards.
+We value your health and your sanity.  Please use your generous PTO to cover leave for these life events.
 
 
 
