@@ -2,7 +2,7 @@
 
 ${env.company} is obligated to keep information about you on file.  We greatly respect and protect your privacy.
 
-Federal and State laws have certain guideline that we use as our foundation and then we amplify that with extra special Barnard encryption to maintain personnel records and documents. 
+Federal and State laws have certain guideline that we use as our foundation and then we amplify that with encryption to maintain personnel records and documents. 
 
 Upon your being hired, a file is established that contains, but is not limited to, the following documentation when applicable:
 
@@ -14,7 +14,7 @@ Upon your being hired, a file is established that contains, but is not limited t
 * Banking information.
 * Tax information.
 * Accumulation & Dissemination of leave time.
-* Performance metrics and revews. 
+* Performance metrics and reviews. 
 * Change of status forms for any term of employment or personal information that has been altered.
 * Emergency contact information.
 * Written employment agreements.
@@ -34,7 +34,7 @@ We also will provide reasonable access to your contact information to relevant $
 
 Company IT resources and communications systems are to be used for business purposes only unless otherwise permitted under applicable law.  
 
-All content maintained in Company IT resources and communications systems are the property of the Company. Therefore, associatesshould have no expectation of privacy in any message, file, data, document, facsimile, telephone conversation, social media post, conversation, or any other kind or form of information or communication transmitted to, received, or printed from, or stored or recorded on Company electronic information and communications systems. 
+All content maintained in Company IT resources and communications systems are the property of the Company. Therefore, associates should have no expectation of privacy in any message, file, data, document, facsimile, telephone conversation, social media post, conversation, or any other kind or form of information or communication transmitted to, received, or printed from, or stored or recorded on Company electronic information and communications systems. 
 
 The Company reserves the right to monitor, intercept, and/or review all data transmitted, received, or downloaded over Company IT resources and communications systems in accordance with applicable law. Any individual who is given access to the system is hereby given notice that the Company will exercise this right periodically, without prior notice and without prior consent. 
 
