@@ -94,7 +94,7 @@ We will start by honoring the laws of the state in which you reside and comply w
 
 After one year of service you are eligible for:
 
-* 8 weeks paid Pregnancy Disability Leave (in conjunction and concurrent with any state paid pregnancy disability leave or paid family leave) 
+* 8 weeks paid Pregnancy Disability Leave (in conjunction and concurrent with short-term disability insurance,any state paid pregnancy disability leave or paid family leave) 
 * 6 weeks paid maternity/paternity leave (runs concurrently with and not in addition to pregnancy disability leave)
 * The remainder of your FMLA term is unpaid but available for use up to one year. 
 * paid leave works in conjuction with state paid leaves and our short-term disability coverage.
