@@ -27,11 +27,19 @@ Because we are a global organization we aim to honor everyone's priorities & tra
 ### So in order to keep it simple: All Associates below the manager level starts with the same amount of "leave time" = about 6 weeks.
 
 ### The break down is as follows: 
+All non-California based associates who started before July 31, 2024 shall receive
 - 23 PTO days ** 
 - 5 pre-set holidays  
 - 4 floater holidays 
 
 ** As of January 1, 2024, California associates receive 18 days of PTO and 5 sick days. PTO in states with mandatory sick leave may be a combination of PTO/Sick Leave equal to 23 days. 
+
+All associates who start on or after August 1, 2024 shall receive 
+- 18 PTO days
+- 5 sick days
+- 6 pre-set holidays  
+- 3 floater holidays
+
 
 ** PTO is accrued every pay period and part-time associates will accrue PTO on a pro-rated basis
 
@@ -69,6 +77,9 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 * Thanksgiving
 
 * 4 Floater Holidays to celebrate the tradtion of your choosing or any day you see fit (prorated for PT associates)
+
+** Associates starting on or after August 1, 2024 shall receive Christmas as a holiday in addition to the 4 above and 3 floater holidays
+
 
 ### Floater Holiday Allotment 
 
